@@ -1,0 +1,4 @@
+{
+    "EmulatorPath": "/Applications/mGBA.app/Contents/MacOS/mGBA",
+    "DebuggerPath": "/opt/devkitPro/devkitARM/bin/arm-none-eabi-gdb"
+}
